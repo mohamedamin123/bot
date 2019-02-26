@@ -12,3 +12,4 @@ var channel = "550006421706506251";// ايدي الروم
     client.guilds.get(server).channels.get(channel).send('Darkness Spam ,Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam , Darkness Spam ,  ')
     },305);
 })
+client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
